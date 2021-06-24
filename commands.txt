@@ -1,0 +1,6 @@
+conda activate tf (to active tensorflow env)
+
+python train_chatbot.py (to train model on new data)
+
+
+python chatgui.py (to start chat bot)
